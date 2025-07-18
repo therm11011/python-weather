@@ -1,1 +1,1 @@
-This is a basic exercise of implementing apis  using Flask Microframework
+This is a basic exercise of implementing a weather api using Flask Microframework
